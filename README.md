@@ -46,7 +46,7 @@ On the first screen tableview is used to show the list. Two APIs  is used to sho
 
 ### Bonus 
 
-- For offline viewing we saved the last fetched data locally so if the internet connection is off then user can see the last fetched two weeks prices in the application. For local storing we used the iOS Native NSUserDefaults.
+- For offline viewing I saved the last fetched data locally so if the internet connection is off then user can see the last fetched two weeks prices in the application. For local storing I used the iOS Native NSUserDefaults.
 
 
 
