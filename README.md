@@ -38,7 +38,7 @@ On the first screen tableview is used to show the list. Two APIs  is used to sho
 
 ### Price Details 
         
- - I just passed the object of the price which was used in listing. And then showing the prices of the USD, GDP and Euro.
+ - I just passed the object of the price which was used in listing. And then showing the prices of the USD, GBP and Euro.
 
 ### Run the App 
     
