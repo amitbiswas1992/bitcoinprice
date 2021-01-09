@@ -1,7 +1,7 @@
 
 
 <p align = "center"> 
-<img src="BitCoinPices/Assets.xcassets/bit/bitcoin1.png"  width ="100" height="100" >
+<img src="BitCoinPrices/Assets.xcassets/bit/bitcoin1.png"  width ="100" height="100" >
 </p>
 <div align="center">
  <h2> Bitcoin Price App  </h2>
@@ -18,7 +18,7 @@
 On the first screen tableview is used to show the list. Two APIs  is used to show the data of two weeks including today. The API which gives the data for last two weeks excluding today takes the parameters of currency , start date and end date. So, we have to calculate it manually the start date and end date by using Calendar object. I just pass the current date in Calendar object and giving -14 to the calendar object parameter so it gives me the start date of previous two weeks. Second API  is used for current price. I used the response of the current price api and append the response in the last two weeks response. 
 
 <p align = "center"> 
-<img src="BitCoinPices/Assets.xcassets/bit-2.imageset/bit-2.png"  width ="280" height="575" >
+<img src="BitCoinPrices/Assets.xcassets/bit-2.imageset/bit-2.png"  width ="280" height="575" >
 </p>
 
 
